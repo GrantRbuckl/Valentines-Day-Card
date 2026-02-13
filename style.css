@@ -1,0 +1,40 @@
+nav a{
+    text-decoration: none;
+    color:antiquewhite;
+}
+
+nav a:hover{
+    color:brown
+}
+
+nav{
+    font-weight: bold;
+    padding: .75em;
+    color: aliceblue;
+
+}
+
+header{
+    font-size:x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: aliceblue;
+}
+
+
+
+head{
+    background-color: indianred;
+    text-align: center;
+}
+
+body{
+    background-color: indianred;
+    text-align: center;
+    color: aliceblue;
+}
+
+footer{
+    font-size: small;
+    text-align: center;
+    color: antiquewhite;
+}
